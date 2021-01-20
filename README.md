@@ -11,4 +11,4 @@ pip install opencv-python
 
 Video tutorial how to setup and run
 
-[Click here](https://youtu.be/Ca098hx_ZqA)
+[Click here](https://youtu.be/9z9qn4lzWqs)
